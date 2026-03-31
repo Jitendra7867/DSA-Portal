@@ -83,7 +83,7 @@ export default function Resources() {
                   Requires the user to drop 'dsa_notes.pdf' into the Vite /public/ folder! 
                   The generic '/dsa_notes.pdf' href targets the root public directory.
                */}
-                  <a href="/DSA Full Notes.pdf" download="DSA_Internal_Notes.pdf" className="btn btn-primary" style={{ marginTop: '1rem', alignSelf: 'flex-start' }}>
+                  <a href="https://drive.google.com/file/d/1cxvXgCtlOU37IabROJ_QzdIS2qkz_LAV/view?usp=drive_link" download="DSA_Internal_Notes.pdf" className="btn btn-primary" style={{ marginTop: '1rem', alignSelf: 'flex-start' }}>
                      Download PDF
                   </a>
                </div>
